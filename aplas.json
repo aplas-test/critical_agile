@@ -21,7 +21,47 @@
       "months_to_renew_support": "8",
       "sme_email": "Pepito.McGonigal@memento.net.au",
       "vendor_phone": "+48 398 447 8073",
-      "investment_number": "60"
+      "investment_number": "60",
+      "integrations": [
+        {
+          "id": "int-091",
+          "name": "INT-091",
+          "categoryId": "59389244-3d74-4e25-9019-51854731feb4",
+          "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
+          "sourceApplicationId": "critical_agile",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Countent Based Router",
+          "golive_date": "15/11/14",
+          "sme_name": "Adelice Passby",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "System Control",
+          "status": "Active",
+          "sme_email": "apassby2@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "28/5/17"
+        },
+        {
+          "id": "int-071",
+          "name": "INT-071",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+          "sourceApplicationId": "critical_agile",
+          "targetApplicationId": "cookley",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "File Delivery",
+          "golive_date": "17/10/11",
+          "sme_name": "Hannis Pantin",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "hpantin6@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "15/7/17"
+        }
+      ]
     }
   ]
 }
